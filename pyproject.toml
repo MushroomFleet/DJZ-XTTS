@@ -1,0 +1,15 @@
+[project]
+name = "DJZ-XTTS"
+description = "Drift Johnson's XTTS nodes"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["coqui-tts"]
+
+[project.urls]
+Repository = "https://github.com/MushroomFleet/DJZ-XTTS"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "driftjohnson"
+DisplayName = "DJZ-XTTS"
+Icon = ""
