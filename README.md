@@ -44,3 +44,11 @@ The DJZ XTTS Custom Node converts input text into speech using an advanced XTTS 
 ---
 
 Enjoy using the DJZ XTTS Custom Node and happy coding! 🚀🌟
+
+## See Also
+
+- [DJZ-Workflows](https://github.com/MushroomFleet/DJZ-Workflows) — 1000+ ComfyUI workflows
+- [DJZ-Nodes](https://github.com/MushroomFleet/DJZ-Nodes) — Custom ComfyUI nodes
+- [ComfyUI-FLUX2-JSON](https://github.com/MushroomFleet/ComfyUI-FLUX2-JSON) — Flux 2 JSON nodes
+- [djz-Aesthetic-Embeddings](https://github.com/MushroomFleet/djz-Aesthetic-Embeddings) — Aesthetic embeddings
+- [svg-suite](https://github.com/MushroomFleet/svg-suite) — SVG generation toolkit
